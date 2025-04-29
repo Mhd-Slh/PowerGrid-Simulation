@@ -1,0 +1,12 @@
+Location           Power         Price per
+ Name             Required        MW Hour
+Detroit            1500.0          90.0
+AnnArbor           450.0           105.6
+Lansing            650.0           93.8
+Monroe             300.0           93.2
+Flint              550.0           80.5
+Ypsilanti          250.0           88.0
+Plymouth           200.0           103.7
+Dexter             70.0            106.1
+Milan              90.0            140.50
+Chelsea           110.0            123.75

@@ -1,0 +1,17 @@
+   Plant                     Sustain     Operating     Maximum       Uptime       Type          Type 
+    Name        Type          Score        Cost        Capacity    Percentage   Specific-1    Specific-2
+
+ThumbSpinner    Wind           82          95.00          100          88         60                12
+DetroitPwr      Fossil         55          70.00          310          95         NatGas        654920  
+Fordithium      Dilithium      99          60.00          895         100         93            157.31
+HuronGlow       Fusion         96          87.25          382         100         96.6
+TraverseBrz     Wind           85          86.00          122          80         69                19
+LansingBurn     Fossil         58          75.00          682          88         Coal          922760  
+GLSolar         Solar          94          60.00          85           95         180000            8
+WolverIon       Fusion         92          82.00          23          100         85
+AssemblySun     Solar          90          50.50          370          96         590000            11
+PureMichSun     Solar          92          61.50          125          97         190700            12
+TahquaFlow      Hydro          74          67.50          42           90         1450000
+MotownWarp      Dilithium      98          63.54          852         100         97            183.55
+FermiToo        Nuclear        85          55.00          1433         90      
+KalSprings      GeoTherm       79          40.00          75           95
